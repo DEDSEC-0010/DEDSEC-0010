@@ -1,8 +1,8 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/DEDSEC-0010/DEDSEC-0010/blob/main/assets/Green%20and%20White%20Simple%20Blog%20Post%20Guide%20LinkedIn%20Article%20Cover%20Image%20.png)
 
 Hello, I'm Josten. Data Scientist with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/DEDSEC-0010/DEDSEC-0010/blob/main/assets/Green%20and%20White%20Simple%20Blog%20Post%20Guide%20LinkedIn%20Article%20Cover%20Image%20.png)
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau.
