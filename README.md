@@ -13,7 +13,7 @@ Hello, I'm Josten. Data Scientist with expertise in data analysis and reporting,
 Welcome to my portfolio, where I showcase my [projects](https://github.com/DEDSEC-0010).
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda,arduino,atom,bash,c,cpp,dockernflask,git,github,html,js,kafka,mysql,nodejs,opencv,postman,py,pytorch,r,sklearn,tensorflow,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda,arduino,atom,bash,c,cpp,docker,flask,git,github,html,js,kafka,mysql,nodejs,opencv,postman,py,pytorch,r,sklearn,tensorflow,vscode&perline=5)](https://skillicons.dev)
 
 ### 👋🏻 Connect with Me
 
